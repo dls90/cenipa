@@ -1,0 +1,27 @@
+{
+  "hidden_width":200,
+  "hist_size":0,
+  "pretrained_vectors":null,
+  "hist_width":0,
+  "beam_width":1,
+  "hidden_depth":1,
+  "nr_class":17,
+  "maxout_pieces":2,
+  "pretrained_dims":0,
+  "extra_labels":[
+    "PERSON",
+    "PERSON",
+    "PERSON",
+    "PERSON",
+    "EVENT",
+    "EVENT",
+    "EVENT",
+    "EVENT"
+  ],
+  "cnn_maxout_pieces":3,
+  "deprecation_fixes":{
+    "vectors_name":null
+  },
+  "token_vector_width":128,
+  "beam_density":0.0
+}
