@@ -127,4 +127,4 @@ if __name__ == "__main__":
 
     # conta as 5 mais frequentes e printa
     common_words = word_freq.most_common(10)
-    pprint(common_words)
+    print(common_words)
