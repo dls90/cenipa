@@ -125,6 +125,6 @@ if __name__ == "__main__":
     word_freq = Counter(wordx)
     print(word_freq)
 
-    # conta as 5 mais frequentes e printa
-    common_words = word_freq.most_common(10)
+    # conta as 20 mais frequentes e printa
+    common_words = word_freq.most_common(20)
     print(common_words)
